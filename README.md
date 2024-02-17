@@ -38,6 +38,7 @@ SQL client or command-line interface for executing SQL queries
 Contributors:
 
 Ankit Kumar
+
 ankit7355@gmail.com
 
 
